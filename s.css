@@ -1,0 +1,11 @@
+img{
+    border-radius: 50%;
+    border:1px solid #021a40;
+}
+*{
+  font-family:Arial;
+  font-size:1.2vw;
+  text-align: center;
+  height:auto;
+  
+}
